@@ -1,2 +1,2 @@
 # sample_djiango
-CS551Q exercise on using djiango
+CS551Q exercc
